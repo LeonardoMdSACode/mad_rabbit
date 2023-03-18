@@ -1,0 +1,14 @@
+{
+  "__entry_css_mods__": {
+    "C:\\Users\\leona\\Desktop\\IT\\SaaS_AI\\mad_rabbit\\madrabbit-fe\\src\\app\\page": [
+      "C:\\Users\\leona\\Desktop\\IT\\SaaS_AI\\mad_rabbit\\madrabbit-fe\\src\\app\\page.module.css",
+      "C:\\Users\\leona\\Desktop\\IT\\SaaS_AI\\mad_rabbit\\madrabbit-fe\\src\\app\\globals.css"
+    ]
+  },
+  "C:\\Users\\leona\\Desktop\\IT\\SaaS_AI\\mad_rabbit\\madrabbit-fe\\src\\app\\page.tsx": [
+    "C:\\Users\\leona\\Desktop\\IT\\SaaS_AI\\mad_rabbit\\madrabbit-fe\\src\\app\\page.module.css"
+  ],
+  "C:\\Users\\leona\\Desktop\\IT\\SaaS_AI\\mad_rabbit\\madrabbit-fe\\src\\app\\layout.tsx": [
+    "C:\\Users\\leona\\Desktop\\IT\\SaaS_AI\\mad_rabbit\\madrabbit-fe\\src\\app\\globals.css"
+  ]
+}
