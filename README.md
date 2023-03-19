@@ -19,6 +19,6 @@ Framework - NextJS/React
 Hosting - Vercel (not implemented)
 
 
-### Set your enviornment variable for OPENAI_API_KEY and call it afterwards from the code
+### Set your environment variable for OPENAI_API_KEY and call it afterward from the code
 setx OPENAI_API_KEY sk-hXif...
 
